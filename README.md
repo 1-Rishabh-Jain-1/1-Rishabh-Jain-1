@@ -12,9 +12,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_rishabh_j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_rishabh_j" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rishabh jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabh jain" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rishabh-jain-0b40a61bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabh jain" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14135164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14135164" height="30" width="40" /></a>
-<a href="https://fb.com/rishabh jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rishabh jain" height="30" width="40" /></a>
+<a href="https://www.facebook.com/rarishabhjain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rishabh jain" height="30" width="40" /></a>
 <a href="https://instagram.com/x__rishabh_jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="x__rishabh_jain" height="30" width="40" /></a>
 </p>
 
